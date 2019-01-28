@@ -3,7 +3,6 @@
 
 React.js 小书 地址： http://huziketang.mangojuice.top/books/react/
 
-
 目录如下：
 
 /src/commentApp1 评论模块 第一阶段
@@ -25,5 +24,4 @@ React.js 小书 地址： http://huziketang.mangojuice.top/books/react/
 /src/App.js      react基础demo
 
 /src/index.js
-
 
