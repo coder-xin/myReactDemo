@@ -9,7 +9,7 @@ React.js 小书 地址： http://huziketang.mangojuice.top/books/react/
 
 /src/commentApp2 评论模块 第二阶段
 
-/src/commentApp3 评论模块 第三阶段
+/src/commentApp3 评论模块 第三阶段(引用react-redux)
 
 /src/components  dumb组件
 
